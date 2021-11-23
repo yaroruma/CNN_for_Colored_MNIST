@@ -20,3 +20,5 @@
 ## Model
 (3*3 conv2d + ReLU + MaxPooling) x2, (Fully connected + ReLU) x3
 ![model](https://user-images.githubusercontent.com/72549957/143024997-1c1ccf18-3562-4e95-8076-01bc3c7ba7f4.JPG)
+
+모델의 디자인과 성능에 대한 정보는 `analysis.pdf`에서 확인할 수 있습니다. 
